@@ -1,0 +1,1 @@
+[{"available": {{ status_enabled }}, "message": "{{ status }}", "serviceid": "services"}, {"available": {{ news_enabled }}, "message": "{{ news }}", "serviceid": "news"}]
